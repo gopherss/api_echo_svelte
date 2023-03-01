@@ -1,0 +1,7 @@
+# Ignoramos la carpeta node_modules
+./svelte-crud/node_modules
+
+./ejemplo4db
+
+./fly.toml
+
