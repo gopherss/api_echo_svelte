@@ -27,11 +27,11 @@ var users = make([]User, 0, 4)
 // var seq int = 1
 
 const (
-	host     = "localhost"
-	user     = "postgres"
-	password = "hacker"
-	dbname   = "api_svelte_echo"
-	port     = 5432
+	host     = "_"
+	user     = "_"
+	password = "_"
+	dbname   = "_"
+	port     = 0
 )
 
 var err error
